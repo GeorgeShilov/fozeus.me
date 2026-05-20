@@ -15,55 +15,55 @@ export type BlogPost = {
 
 export const fallbackPosts: BlogPost[] = [
   {
-    slug: "building-an-ai-toolkit-for-solo-founders",
-    title: "Building an AI toolkit for solo founders",
+    slug: "nft-utility-beyond-the-hype",
+    title: "NFT utility beyond the hype",
     description:
-      "A practical stack of AI tools that helps solo builders move from idea to shipped product without a team.",
+      "Why sustainable NFT projects focus on real utility — from GameFi assets to SocialFi reputation — rather than speculation alone.",
     pubDate: "2026-05-16",
     author: "Fozeus Team",
-    category: "AI",
-    tags: ["AI", "Tools", "Solo Founders"],
+    category: "NFT",
+    tags: ["NFT", "Utility", "GameFi", "SocialFi"],
     featured: true,
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
-      <p>Solo founders do not need a 20-person team to build something credible. They need a tight stack of AI tools that handles research, copy, design, code, and deployment without adding management overhead. The right toolkit replaces meetings with prompts and turns one operator into a product studio.</p>
-      <p>At Fozeus, we test every tool before it enters the stack. The current lineup includes large language models for reasoning and drafting, image generators for brand assets, voice models for quick content, and no-code deployment platforms for shipping fast. Each tool must earn its place by saving time, not creating new rituals.</p>
-      <p>The real advantage is not the tool itself. It is the workflow you build around it. Document your prompts, version your outputs, and review what worked. Over time, the stack becomes a competitive edge that scales with you.</p>
+      <p>The NFT market matured fast. Early cycles rewarded speculation and scarcity theater, but collectors and gamers now demand something different: utility. A token that sits in a wallet is a JPEG. A token that unlocks game levels, earns staking rewards, or proves reputation in a DAO is an asset with lasting value.</p>
+      <p>At Fozeus, we design NFTs as functional primitives. Our collections tie into GameFi economies where items are playable across experiences, and into SocialFi layers where ownership signals contribution and unlocks governance rights. The metadata matters as much as the art.</p>
+      <p>The projects that survive the next cycle will be the ones that built real utility from day one. Speculation can bootstrap attention, but only function builds retention.</p>
     `
   },
   {
-    slug: "crypto-wallets-and-digital-identity",
-    title: "Crypto wallets and digital identity",
+    slug: "gamefi-and-the-future-of-play-to-own",
+    title: "GameFi and the future of play-to-own",
     description:
-      "How on-chain wallets are becoming the foundation of personal digital identity and reputation.",
+      "How blockchain gaming is shifting from play-to-earn grind to sustainable play-to-own economies with real asset ownership.",
     pubDate: "2026-05-15",
     author: "Fozeus Team",
-    category: "Crypto",
-    tags: ["Crypto", "Wallets", "Identity"],
+    category: "GameFi",
+    tags: ["GameFi", "Blockchain", "Play-to-Own", "NFT"],
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
-      <p>The wallet is no longer just a place to store tokens. It is becoming a passport for the internet. Every transaction, attestation, and credential you collect on-chain adds to a verifiable reputation layer that follows you across platforms and protocols.</p>
-      <p>This shift matters for personal brands and builders. A well-curated on-chain identity can unlock access, prove contribution, and replace traditional resumes. The challenge is curation: knowing what to sign, what to mint, and what to leave behind.</p>
-      <p>Fozeus experiments with wallet-first identity design. We treat the wallet as a public portfolio and design interactions that strengthen reputation without sacrificing privacy. The future of digital identity is on-chain, and the wallet is where it starts.</p>
+      <p>Play-to-earn was a promise that burned too bright. Early GameFi projects optimized for token emissions rather than gameplay, creating unsustainable economies that collapsed as soon as growth slowed. The next wave is different: play-to-own.</p>
+      <p>Play-to-own puts asset ownership at the center. Players truly own their characters, weapons, and land as NFTs. These assets persist across games, can be traded on open marketplaces, and accrue value based on skill and rarity rather than inflationary rewards.</p>
+      <p>Fozeus builds GameFi experiences around this principle. We design economies where scarcity is real, crafting matters, and the best players are rewarded with assets that have lasting value. The goal is not a job disguised as a game — it is a game where ownership means something.</p>
     `
   },
   {
-    slug: "the-tech-lifestyle-minimalist-stack",
-    title: "The tech lifestyle minimalist stack",
+    slug: "socialfi-reputation-in-a-decentralized-world",
+    title: "SocialFi: reputation in a decentralized world",
     description:
-      "Why fewer, better tools lead to clearer thinking and faster output in a noisy digital world.",
+      "Why on-chain reputation and tokenized social graphs are the next frontier for Web3 community building.",
     pubDate: "2026-05-14",
     author: "Fozeus Team",
-    category: "Lifestyle",
-    tags: ["Minimalism", "Productivity", "Tech"],
+    category: "SocialFi",
+    tags: ["SocialFi", "Web3", "Reputation", "DAO"],
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
-      <p>More tools do not mean more output. In practice, every new app adds decision fatigue, sync complexity, and subscription noise. The best builders we know run surprisingly minimal setups. One editor, one notes app, one deployment platform, and a handful of AI helpers.</p>
-      <p>The minimalist stack is not about deprivation. It is about clarity. When you know exactly where your code, notes, and tasks live, you spend less time navigating and more time creating. The constraint forces intentionality.</p>
-      <p>Fozeus is built on this philosophy. We evaluate every tool by whether it removes work or adds it. If a tool requires more setup than the problem it solves, it does not make the cut. The result is a lean, fast environment where ideas turn into products without bureaucratic drag.</p>
+      <p>Web2 social platforms extract value from users and give nothing back. Your followers, content, and reputation are locked inside walled gardens. SocialFi changes the equation by making social graphs portable and reputation verifiable on-chain.</p>
+      <p>On-chain reputation is built from provable actions: DAO contributions, NFT holdings, governance votes, and verified credentials. Instead of follower counts, SocialFi networks reward meaningful participation with tokens, access, and status that travels with you across platforms.</p>
+      <p>Fozeus experiments with reputation primitives that bridge NFT ownership and community participation. We believe the future of social networking is decentralized, ownable, and built on transparent contribution rather than opaque algorithms.</p>
     `
   }
 ];

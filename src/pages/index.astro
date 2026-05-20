@@ -9,33 +9,33 @@ const posts = await getBlogPosts();
 const featured = posts.find((post) => post.featured) || posts[0];
 ---
 
-<Layout title="Fozeus / Tech identity lab" description={site.description}>
+<Layout title="Fozeus NFT — The Future Begins Here" description={site.description}>
   <ArchiveNotice />
   <section class="hero">
     <div class="hero-copy">
-      <p class="eyebrow">Fozeus / Tech identity lab</p>
-      <h1>Build your edge in tech, AI, and crypto.</h1>
+      <p class="eyebrow">Fozeus NFT</p>
+      <h1>Discover the unlimited possibilities of digital assets.</h1>
       <p class="lead">
-        Fozeus is a personal tech brand exploring AI tools, crypto innovation, and digital identity
-        design for builders who move fast and think deep.
+        Fozeus is an NFT and crypto-native project harnessing the power of blockchain, SocialFi,
+        GameFi, and AI to build remarkable digital experiences with true on-chain utility.
       </p>
       <div class="button-row">
-        <a class="button" href="/gateway/">Explore command OS</a>
+        <a class="button" href="/gateway/">Explore the ecosystem</a>
         <a class="button secondary" href="/blog/">Read field notes</a>
       </div>
     </div>
     <div class="hero-panel" aria-label="Fozeus signal summary">
       <div>
         <span>Core view</span>
-        <strong>AI, crypto, identity design</strong>
+        <strong>NFTs, SocialFi, GameFi, Metaverse</strong>
       </div>
       <div>
         <span>Signals</span>
-        <strong>Tools, experiments, on-chain proof</strong>
+        <strong>Blockchain, AI, FZS token utility</strong>
       </div>
       <div>
         <span>Focus</span>
-        <strong>Personal tech brand building</strong>
+        <strong>Web3 digital asset innovation</strong>
       </div>
     </div>
   </section>
@@ -44,7 +44,7 @@ const featured = posts.find((post) => post.featured) || posts[0];
     <div class="section-inner split">
       <div>
         <p class="eyebrow">Why it exists</p>
-        <h2>Builders need identity before they need a company.</h2>
+        <h2>Builders need on-chain identity before they need a platform.</h2>
       </div>
       <div class="history-list">
         {site.launchContext.map((item) => <p>{item}</p>)}
@@ -54,20 +54,20 @@ const featured = posts.find((post) => post.featured) || posts[0];
 
   <section class="section">
     <div class="section-inner">
-      <p class="eyebrow">Command architecture</p>
-      <h2>One view for the messy first mile of growth.</h2>
+      <p class="eyebrow">Ecosystem architecture</p>
+      <h2>One view for the next generation of digital ownership.</h2>
       <div class="grid">
         <article class="card">
-          <h3>Work map</h3>
-          <p>Track channels, experiments, and launch pushes without hiding the pattern.</p>
+          <h3>NFT collections</h3>
+          <p>Create, trade, and collect unique digital assets with verifiable scarcity and on-chain provenance.</p>
         </article>
         <article class="card">
-          <h3>Funnel review</h3>
-          <p>Turn early movement into simple decisions for pages, offers, and follow-up.</p>
+          <h3>SocialFi layer</h3>
+          <p>Turn community engagement into owned reputation and tokenized rewards across Web3 social graphs.</p>
         </article>
         <article class="card">
-          <h3>Launch rhythm</h3>
-          <p>Connect campaign planning, content output, and deploy checks into one habit.</p>
+          <h3>GameFi mechanics</h3>
+          <p>Build play-to-earn experiences where in-game assets are real NFTs with cross-platform portability.</p>
         </article>
       </div>
     </div>
@@ -77,7 +77,7 @@ const featured = posts.find((post) => post.featured) || posts[0];
     <section class="section band">
       <div class="section-inner">
         <p class="eyebrow">Featured note</p>
-        <h2>Start with work command.</h2>
+        <h2>Start with digital ownership.</h2>
         <PostCard post={featured} />
       </div>
     </section>

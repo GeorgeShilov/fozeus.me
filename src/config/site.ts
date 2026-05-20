@@ -4,11 +4,11 @@ export const site = {
   url: import.meta.env.SITE_URL || "https://fozeus.me",
   email: "hello@fozeus.me",
   description:
-    "Fozeus is a personal tech innovation lab exploring AI tools, crypto experiments, and digital identity design.",
+    "Fozeus NFT explores the frontier of digital assets, SocialFi, GameFi, and Web3 infrastructure — building tools and experiences at the intersection of blockchain, AI, and the open metaverse.",
   launchContext: [
-    "Build a sharp tech identity around AI experimentation, crypto tools, and digital-first product design.",
-    "Turn emerging technology into practical workflows, experiments, and insights anyone can follow.",
-    "Bridge personal branding, digital innovation, and on-chain identity into a single coherent presence."
+    "Build a forward-looking NFT and digital asset ecosystem with FZS token utility across SocialFi, GameFi, and metaverse experiences.",
+    "Bridge blockchain infrastructure, AI-powered creation tools, and community-driven governance into a coherent Web3 platform.",
+    "Turn emerging crypto trends — from DeFi to GPT-integrated on-chain agents — into practical products collectors and gamers can use."
   ]
 };
 
