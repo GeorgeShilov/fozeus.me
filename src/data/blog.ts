@@ -23,7 +23,7 @@ export const fallbackPosts: BlogPost[] = [
     category: "General",
     tags: [],
     featured: false,
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcc/GjQt159sG7v1aI68pDwpS.jpg",
     inlineImages: [],
     referenceUrl: "https://swapzone.io/",
     articleText: `
@@ -133,7 +133,7 @@ export const fallbackPosts: BlogPost[] = [
     category: "General",
     tags: [],
     featured: false,
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcc/9yMJ7Gzhbq5L_-816gBrP.jpg",
     inlineImages: [],
     referenceUrl: "https://swapzone.io/",
     articleText: `
@@ -275,7 +275,7 @@ export const fallbackPosts: BlogPost[] = [
     author: "Fozeus Team",
     category: "SocialFi",
     tags: ["SocialFi", "NFT", "Community", "FZS", "Web3", "Engagement"],
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcc/_wVqFsbuWYRM2Sq2ixjiR.jpg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>The digital landscape is undergoing a radical transformation, one that is quietly dismantling the extractive models of Web2 social platforms and replacing them with something far more empowering: SocialFi. At the heart of this revolution lies the convergence of social tokens and non-fungible tokens, a powerful combination that is redefining what it means to be part of a digital community. For years, users of traditional social networks have generated immense value through content creation, engagement, and network effects, yet they have received virtually nothing in return. Their data was harvested, their attention was monetized by advertisers, and their social connections remained trapped within walled gardens controlled by centralized corporations. SocialFi flips this paradigm entirely by making social graphs portable, reputations verifiable, and contributions directly rewarding through tokenized incentives. NFTs serve as the foundational layer of this new social economy, acting not merely as collectibles but as identity primitives, membership passes, governance credentials, and proof of contribution within decentralized communities.</p>
@@ -337,7 +337,7 @@ export const fallbackPosts: BlogPost[] = [
     category: "NFT",
     tags: ["NFT", "Utility", "GameFi", "SocialFi"],
     featured: true,
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcc/5toTN0LX-s3vf7AD7ODuQ.jpg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>The NFT market matured fast. Early cycles rewarded speculation and scarcity theater, but collectors and gamers now demand something different: utility. A token that sits in a wallet is a JPEG. A token that unlocks game levels, earns staking rewards, or proves reputation in a DAO is an asset with lasting value.</p>
@@ -354,7 +354,7 @@ export const fallbackPosts: BlogPost[] = [
     author: "Fozeus Team",
     category: "GameFi",
     tags: ["GameFi", "Blockchain", "Play-to-Own", "NFT"],
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcc/Ylqs8fsPtnCEjubfk0ZLl.jpg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>Play-to-earn was a promise that burned too bright. Early GameFi projects optimized for token emissions rather than gameplay, creating unsustainable economies that collapsed as soon as growth slowed. The next wave is different: play-to-own.</p>
@@ -371,7 +371,7 @@ export const fallbackPosts: BlogPost[] = [
     author: "Fozeus Team",
     category: "SocialFi",
     tags: ["SocialFi", "Web3", "Reputation", "DAO"],
-    heroImage: "/assets/archive-grid.svg",
+    heroImage: "https://v3b.fal.media/files/b/0aa0bfcd/8xaA5QNfMOuPLFmnGStvR.jpg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>Web2 social platforms extract value from users and give nothing back. Your followers, content, and reputation are locked inside walled gardens. SocialFi changes the equation by making social graphs portable and reputation verifiable on-chain.</p>
