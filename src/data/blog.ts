@@ -23,7 +23,7 @@ export const fallbackPosts: BlogPost[] = [
     category: "General",
     tags: [],
     featured: false,
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf5e/FUIRgCGSme_qUoeo1Q-3j.jpg",
+    heroImage: "/assets/archive-grid.svg",
     inlineImages: [],
     referenceUrl: "https://swapzone.io/",
     articleText: `
@@ -34,7 +34,7 @@ export const fallbackPosts: BlogPost[] = [
 <p>An exchange is more than just a marketplace. It is the gatekeeper to your funds, the execution venue for your trades, and the customer support team you may need in a crisis. The wrong choice can mean higher costs, slower withdrawals, or exposure to unnecessary counterparty risk.</p>
 <p>When you trade on an exchange, you are trusting that platform to process orders fairly, protect your deposits, and maintain enough liquidity to fill your trades at the prices you expect. That trust is not always rewarded. Over the years, some exchanges have suffered hacks, insolvency, or regulatory shutdowns that left users waiting months to recover assets.</p>
 <p>For traders who want flexibility without opening accounts on every platform, a comparison tool can save time. For example, if you need to move quickly between coins, a <a href="https://swapzone.io/">bitcoin swap</a> service can let you compare rates across liquidity providers without maintaining balances on multiple sites.</p>
-<p><img alt="Abstract representation of digital trading and exchange platforms" src="/images/crypto-exchange-abstract.jpg" /></p>
+<p><img alt="Abstract representation of digital trading and exchange platforms" src="/path/to/crypto-exchange-abstract.jpg" /></p>
 <h2 id="security-and-regulatory-standing">Security and Regulatory Standing</h2>
 <p>Security should be the first filter in any exchange review. Look for platforms that offer two-factor authentication (2FA), withdrawal whitelist controls, and cold storage for the majority of customer funds. A transparent exchange will also publish proof of reserves or regular audits so you can verify that assets are backed.</p>
 <p>Regulation matters too. A platform that is registered in your jurisdiction is generally easier to hold accountable if something goes wrong. The <a href="https://www.investor.gov/introduction-investing/investing-basics/crypto-assets" rel="nofollow">U.S. Securities and Exchange Commission</a> encourages investors to understand how an asset is treated under local law before sending money to any platform.</p>
@@ -67,7 +67,7 @@ export const fallbackPosts: BlogPost[] = [
 <p>The best approach for most people is a hybrid: use a reputable exchange for buying and selling, then transfer assets you plan to hold long term to a wallet you control.</p>
 <h2 id="fees-and-trading-costs">Fees and Trading Costs</h2>
 <p>Fees can erode returns faster than many beginners expect. Most platforms charge a mix of deposit fees, withdrawal fees, and trading fees. Trading fees are usually expressed as a percentage of the trade value and may be split into “maker” and “taker” rates.</p>
-<p><img alt="Screenshot of a fee comparison table on a trading dashboard" src="/images/fee-comparison.jpg" /></p>
+<p><img alt="Screenshot of a fee comparison table on a trading dashboard" src="/path/to/fee-comparison.jpg" /></p>
 <table>
 <thead>
 <tr>
@@ -120,7 +120,11 @@ export const fallbackPosts: BlogPost[] = [
 <li>Are the fee structure and trading interface transparent?</li>
 <li>Is the exchange legally accessible and reputable in my region?</li>
 </ul>
-<p>Once you have answered these questions, narrow the list to two or three platforms, test them with small amounts, and verify deposits and withdrawals before committing larger sums. A careful comparison now can preve{
+<p>Once you have answered these questions, narrow the list to two or three platforms, test them with small amounts, and verify deposits and withdrawals before committing larger sums. A careful comparison now can prevent headaches later.</p>
+    `
+  },
+  
+  {
     slug: "choosing-crypto-exchange",
     title: "Choosing the Right Crypto Exchange: A Practical Guide",
     description: "Not every crypto exchange is built for the same trader. Some platforms are designed for beginners who want to buy Bitcoin with a debit card and leave it in a wa",
@@ -129,15 +133,14 @@ export const fallbackPosts: BlogPost[] = [
     category: "General",
     tags: [],
     featured: false,
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf5e/BCdLQ9n_vKvflhaagVHK6.jpg",
-    inlineImages:ets/archive-grid.svg",
+    heroImage: "/assets/archive-grid.svg",
     inlineImages: [],
     referenceUrl: "https://swapzone.io/",
     articleText: `
       <h1 id="how-to-choose-the-right-crypto-exchange-for-your-needs">How to Choose the Right Crypto Exchange for Your Needs</h1>
 <p>Not every crypto exchange is built for the same trader. Some platforms are designed for beginners who want to buy Bitcoin with a debit card and leave it in a wallet; others cater to active traders who need margin, futures, and advanced charting. Before you deposit funds, it helps to map your goals to the features a platform actually offers.</p>
 <p>If you’re only looking to convert one digital asset into another, a simple aggregator may be enough. Services like <a href="https://swapzone.io/">bitcoin swap</a> let you compare rates across providers and complete a swap without creating a traditional exchange account. For people who want to hold, trade, or stake assets regularly, however, a more feature-rich platform is usually the better choice.</p>
-<p><img alt="A laptop screen displaying a crypto exchange dashboard with price charts" src="/images/image.jpg" /></p>
+<p><img alt="A laptop screen displaying a crypto exchange dashboard with price charts" src="/path/to/image.jpg" /></p>
 <h2 id="why-the-exchange-choice-matters">Why the Exchange Choice Matters</h2>
 <p>The exchange you use is effectively the bank, brokerage, and trading desk of your crypto journey. It controls custody, fee structure, supported markets, and the quality of order execution. A poor fit can lead to:</p>
 <ul>
@@ -230,7 +233,7 @@ export const fallbackPosts: BlogPost[] = [
 <h2 id="user-experience-and-asset-support">User Experience and Asset Support</h2>
 <p>A powerful exchange is useless if you cannot navigate it. Beginners usually prefer clean dashboards, one-click buys, and educational content. Advanced traders want order-book depth, customizable charts, API access, and risk-management tools.</p>
 <p>Asset support also varies widely. Some platforms focus on a curated list of large-cap coins, while others list thousands of tokens and new projects. If you plan to participate in staking, lending, or airdrops, confirm that the platform supports those services for your chosen assets.</p>
-<p><img alt="A side-by-side comparison of mobile and desktop crypto exchange interfaces" src="/images/image.jpg" /></p>
+<p><img alt="A side-by-side comparison of mobile and desktop crypto exchange interfaces" src="/path/to/image.jpg" /></p>
 <h2 id="matching-exchanges-to-trading-styles">Matching Exchanges to Trading Styles</h2>
 <p>There is no universal “best” exchange; there is only the best exchange for your situation. Consider the following quick mapping:</p>
 <table>
@@ -260,7 +263,10 @@ export const fallbackPosts: BlogPost[] = [
 </tbody>
 </table>
 <h2 id="final-thoughts">Final Thoughts</h2>
-<p>Choosing a crypto exchange is a decision that should match your risk tolerance, technical comfort, and how often you plan to trade. Start with a short list of platforms that support your region and payment method, then compare fees, security practices, and user reviews. Deposit only what you can afford to risk, enable all available security features, and consider moving long-term holdings to a personal wallet. The right exchange can make your entry into crypto {
+<p>Choosing a crypto exchange is a decision that should match your risk tolerance, technical comfort, and how often you plan to trade. Start with a short list of platforms that support your region and payment method, then compare fees, security practices, and user reviews. Deposit only what you can afford to risk, enable all available security features, and consider moving long-term holdings to a personal wallet. The right exchange can make your entry into crypto smoother, but staying informed is what keeps your funds safer.</p>
+    `
+  },
+  {
     slug: "the-convergence-of-socialfi-and-nfts",
     title: "The Convergence of SocialFi and NFTs: How Fozeus Is Redefining Digital Communities",
     description:
@@ -269,8 +275,6 @@ export const fallbackPosts: BlogPost[] = [
     author: "Fozeus Team",
     category: "SocialFi",
     tags: ["SocialFi", "NFT", "Community", "FZS", "Web3", "Engagement"],
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf68/ndK5wZC1Ho5Fe9XTMuF5v.jpg",
-    inlineImages:b3", "Engagement"],
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
@@ -320,7 +324,10 @@ export const fallbackPosts: BlogPost[] = [
       <p>The dual-token model represents another proven approach to GameFi sustainability, and Fozeus has adapted this framework to suit its specific ecosystem needs. By separating the governance and value-accrual functions of the primary token from the in-game utility and reward functions of a secondary token, the system protects long-term holders from the inflationary pressures of daily gameplay. FZS serves as the scarce, valuable asset that represents true ownership and governance rights within the Fozeus ecosystem. A secondary soft currency handles routine in-game transactions, quest rewards, and consumable purchases. This soft currency can be inflated as needed to support gameplay without damaging the value of FZS. The two currencies are connected through carefully designed conversion mechanisms that impose costs, time delays, or burning requirements, ensuring that the relationship remains economically sound rather than exploitable for arbitrage.</p>
       <p>NFT integration adds crucial depth to sustainable GameFi tokenomics by introducing genuine scarcity and skill-based value creation. Unlike fungible tokens that can be printed indefinitely, NFTs have hard caps on supply and derive value from their utility, rarity, and the effort required to obtain them. In the Fozeus ecosystem, the best weapons, characters, and land parcels are NFTs that must be earned through gameplay or crafted from rare materials. Their value is anchored in genuine scarcity and player skill rather than inflationary token emissions. These NFTs can be staked to earn FZS yield, creating a bridge between the NFT and token economies that benefits holders of both asset types. The key insight is that when players earn valuable NFTs through skill and effort, and can then leverage those NFTs to generate token income, the economy rewards genuine participation rather than mindless grinding or speculative trading.</p>
       <p>Long-term sustainability also requires that GameFi economies be resilient to market cycles and capable of adapting to changing conditions. The Fozeus treasury is managed through decentralized governance, with FZS stakers voting on economic parameters such as emission rates, sink intensities, and reward distributions. This creates a living economy that can respond to data, community feedback, and external market conditions. Protocol-owned liquidity ensures that trading markets remain functional even during periods of stress. Diversified treasury assets provide a financial cushion that can support development and marketing without requiring token sales that would depress the price. The ultimate goal is an ecosystem that can weather bear markets, reward loyal participants during difficult periods, and capture exponential growth during bull markets without becoming dependent on that growth for survival.</p>
-      <p>The FZS token is the economic lifeblood of the Fozeus ecosystem, and its design reflects hard-won lessons from both the successes and failures of previous GameFi projects. Utility extends across the full breadth of the platform: governance voting, staking rewards, in-game purchases, marketplace transactions, tournament entries, and premium feature access. This broad utility base ensures that demand for FZS is driven by genuine ecosystem activity rather than pure speculation. The distribution schedule favors long-term community alignment over short-term extraction, with significant allocations reserved for ecosystem incentives, community rewards, and protocol development. The Fozeus team is committed to transparency in tokenomics, publishing regular reports on emissions, sinks, treasury status, and economic health metrics. We believe that sustainable GameFi is not an oxymoron but an achievable goal when built on sound economic principles, genuine gameplay value, and a community that understands and participates in the economic design. The future of play-to-earn{
+      <p>The FZS token is the economic lifeblood of the Fozeus ecosystem, and its design reflects hard-won lessons from both the successes and failures of previous GameFi projects. Utility extends across the full breadth of the platform: governance voting, staking rewards, in-game purchases, marketplace transactions, tournament entries, and premium feature access. This broad utility base ensures that demand for FZS is driven by genuine ecosystem activity rather than pure speculation. The distribution schedule favors long-term community alignment over short-term extraction, with significant allocations reserved for ecosystem incentives, community rewards, and protocol development. The Fozeus team is committed to transparency in tokenomics, publishing regular reports on emissions, sinks, treasury status, and economic health metrics. We believe that sustainable GameFi is not an oxymoron but an achievable goal when built on sound economic principles, genuine gameplay value, and a community that understands and participates in the economic design. The future of play-to-earn belongs to projects that prioritize sustainability over hype, and Fozeus intends to lead that future.</p>
+    `
+  },
+  {
     slug: "nft-utility-beyond-the-hype",
     title: "NFT utility beyond the hype",
     description:
@@ -330,15 +337,15 @@ export const fallbackPosts: BlogPost[] = [
     category: "NFT",
     tags: ["NFT", "Utility", "GameFi", "SocialFi"],
     featured: true,
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf5f/4Kg4uv6XybrA5TIt8Awwy.jpg",
-    inlineImages:NFT", "Utility", "GameFi", "SocialFi"],
-    featured: true,
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>The NFT market matured fast. Early cycles rewarded speculation and scarcity theater, but collectors and gamers now demand something different: utility. A token that sits in a wallet is a JPEG. A token that unlocks game levels, earns staking rewards, or proves reputation in a DAO is an asset with lasting value.</p>
       <p>At Fozeus, we design NFTs as functional primitives. Our collections tie into GameFi economies where items are playable across experiences, and into SocialFi layers where ownership signals contribution and unlocks governance rights. The metadata matters as much as the art.</p>
-      <p>The projects that survive {
+      <p>The projects that survive the next cycle will be the ones that built real utility from day one. Speculation can bootstrap attention, but only function builds retention.</p>
+    `
+  },
+  {
     slug: "gamefi-and-the-future-of-play-to-own",
     title: "GameFi and the future of play-to-own",
     description:
@@ -347,26 +354,19 @@ export const fallbackPosts: BlogPost[] = [
     author: "Fozeus Team",
     category: "GameFi",
     tags: ["GameFi", "Blockchain", "Play-to-Own", "NFT"],
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf5f/CCqLp5z-RoI6q5ywZRyV1.jpg",
-    inlineImages:r: "Fozeus Team",
-    category: "GameFi",
-    tags: ["GameFi", "Blockchain", "Play-to-Own", "NFT"],
     heroImage: "/assets/archive-grid.svg",
     inlineImages: ["/assets/identity-shield.svg", "/assets/wallet-ledger.svg"],
     articleText: `
       <p>Play-to-earn was a promise that burned too bright. Early GameFi projects optimized for token emissions rather than gameplay, creating unsustainable economies that collapsed as soon as growth slowed. The next wave is different: play-to-own.</p>
       <p>Play-to-own puts asset ownership at the center. Players truly own their characters, weapons, and land as NFTs. These assets persist across games, can be traded on open marketplaces, and accrue value based on skill and rarity rather than inflationary rewards.</p>
-      <p>Fozeus builds GameFi experiences around this principle. We design economies where scarcity is re{
+      <p>Fozeus builds GameFi experiences around this principle. We design economies where scarcity is real, crafting matters, and the best players are rewarded with assets that have lasting value. The goal is not a job disguised as a game — it is a game where ownership means something.</p>
+    `
+  },
+  {
     slug: "socialfi-reputation-in-a-decentralized-world",
     title: "SocialFi: reputation in a decentralized world",
     description:
       "Why on-chain reputation and tokenized social graphs are the next frontier for Web3 community building.",
-    pubDate: "2026-05-14",
-    author: "Fozeus Team",
-    category: "SocialFi",
-    tags: ["SocialFi", "Web3", "Reputation", "DAO"],
-    heroImage: "https://v3b.fal.media/files/b/0aa0bf5f/Q7AqAsVawXa56WM-b0oCk.jpg",
-    inlineImages:ing.",
     pubDate: "2026-05-14",
     author: "Fozeus Team",
     category: "SocialFi",
