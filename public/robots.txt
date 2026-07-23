@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fozeus.me/sitemap-index.xml
